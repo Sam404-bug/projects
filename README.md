@@ -1,2 +1,2 @@
-# projects
-sample projects i have created so far 
+# NewsBoy
+a news single page web application created by me using react
